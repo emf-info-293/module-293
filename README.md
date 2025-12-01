@@ -1,2 +1,2 @@
-# module-293
-Le template qui contiendra tout votre projet et votre RP
+# Module 293
+Ce dépôt contiendra tout votre projet et votre RP. 
