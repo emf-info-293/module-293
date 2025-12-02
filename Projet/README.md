@@ -1,6 +1,12 @@
 # Module 293 : Projet Personnel
 Nom de l'apprenti(e)
 
+## Nom du projet
+_Titre de votre projet_
+
+## Lien url sur l'hébergement
+_Lien permettant d'accéder directement à votre site hébergé_
+
 ## Introduction 
 _Explication du choix du sujet et pourquoi ce choix_
 ## Les objectifs du site 
