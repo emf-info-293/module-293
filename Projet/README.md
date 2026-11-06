@@ -9,10 +9,7 @@ _Lien permettant d'accéder directement à votre site hébergé_
 
 ## Introduction 
 _Explication du choix du sujet et pourquoi ce choix_
-## Les objectifs du site 
-_Quelle est l’utilité du site? Quel est le public cible?_ 
-### Personas
-### Diagramme de use case
+
 ## Les articles 
 _Liste des (minimum) 5 pages et résumé rapide de leur contenu_
 - Page 1:
@@ -38,8 +35,7 @@ _Ci-dessous un exemple. La première ligne est un exemple avant d'avoir effectu�
 | 2       | Affichage du menu mobile                | Android | Wifi      | Chrome 87  | Le menu mobile apparaît avec les 3 trois traits significatifs                    | Le menu mobile apparaît                           | 🟩               |
 | 3       | Affichage de la page Histoire           | Mac     | Wifi      | Safari 14  | Tout le contenu de la page histoire est conforme à la maquette                   | Le texte du premier paragraphe est caché par le menu | 🟥               |
 | 4       | Validation W3C page d'accueil           | -       | -         | -          | La page d'accueil est conforme W3C                                                |                                                   |                  |
+_**Indiquez le nom de la personne qui a testé, ainsi que l'heure et la date.**_
 
-
-
-## Conclusion personnelle
-_Ce que j'ai aimé, et moins aimé au niveau du projet. Comment j'évalue mon travail et mon organisation_
+## Les améliorations possibles
+_Identification des éléments qui pourraient encore être réalisés ou corrigés pour améliorer le site._
